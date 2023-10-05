@@ -6,6 +6,8 @@
   <img align="center" alt="Mau-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Mau-Tableau" height="30" width="40" src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png">
 </div>
+
+
   
  
 <div> 
