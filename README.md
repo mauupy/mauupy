@@ -1,4 +1,4 @@
-## Oiii eu sou o Maurício Marques, engenheiro e analista de dados!
+## Oiii eu sou o Maurício, engenheiro e analista de dados!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
